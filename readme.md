@@ -6,4 +6,4 @@ The backend is an ASP.NET Core application that process requests from the client
 
 ## Documentation
 
-- [Create an Angular Dashboard Application](https://docs.devexpress.com/Dashboard/403029?v=21.1)
+- [Create a Blazor Server Dashboard Application](https://docs.devexpress.com/Dashboard/403029?v=21.1)
